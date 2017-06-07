@@ -1,6 +1,6 @@
 {
 	"headline": "IMPACTFUL HEADLINE",
-	"bannerimage": "images/banner.jpg",
+	"bannerimage": "https://i.imgur.com/P4lmtjK.jpg",
 	"firstpara": {
 		"undefined": "An exciting intro paragraph, feating <em>lots</em> of <strong>styling</strong> and <a title=\"can't bust the krust\" href=\"http://imgur.com/a/s4Bo7\" data-mce-href=\"http://imgur.com/a/s4Bo7\">links</a> and an image. <img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://i.imgur.com/jYoAQM3.png\" alt=\"IN KRUST WE TRUST\" data-mce-style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"368\" height=\"375\">"
 	}
