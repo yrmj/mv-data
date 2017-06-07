@@ -1,5 +1,7 @@
 {
 	"headline": "Story",
 	"bannerimage": "images/banner.jpg",
-	"firstpara": "a bunch of stuff"
+	"firstpara": {
+		"undefined": "a bunch of stuff"
+	}
 }
