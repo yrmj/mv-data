@@ -5,10 +5,10 @@
 	"first-article": "<h2>Fill text, fill text, fill text.<br></h2><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">Rhubarb rhubarb, rhubarb rhubarb rhubarb.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><div style=\"text-align: right;\" data-mce-style=\"text-align: right;\">&nbsp;New paragraph. Hello there.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;Another new paragraph.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><ul class=\"actions vertical\"><li><a class=\"button\" href=\"#\" data-mce-href=\"#\">Learn Less﻿</a></li></ul>",
 	"spotlight": [
 		{
-			"spotlight-para": "<h2>Spotlight headline<br></h2><p>Spotlight paragraph, spotlight paragraph, spotlight paragraph.<br></p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"#\" data-mce-href=\"#\" data-mce-selected=\"1\">Spotlight Button﻿</a></li></ul>"
+			"spotlight-para": "<h2>Spotlight headline<br></h2><p>Spotlight paragraph, spotlight paragraph, spotlight paragraph.<br></p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"http://www.prankeapple.com\" data-mce-href=\"http://www.prankeapple.com\">Spotlight Button﻿</a></li></ul>"
 		},
 		{
-			"spotlight-para": "\n\t\t\t\t\t\t\t<h2>Tempus adipiscing</h2>\n\t\t\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>\n\t\t\t\t\t\t\t<ul class=\"actions vertical\">\n\t\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">Learn More</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t"
+			"spotlight-para": "<h2>Tempus adipiscing</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"#\" data-mce-href=\"#\" data-mce-selected=\"1\">DUCKROLL﻿</a></li></ul>"
 		},
 		{
 			"spotlight-para": "<h2>I guess this is a new spotlight<br></h2><p>&nbsp;With a new paragraph and stuff.<br></p>"
