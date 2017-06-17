@@ -7,7 +7,7 @@
 	"first-article": "<h2>Fill text, fill text, fill text.<br></h2><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">Rhubarb rhubarb, rhubarb rhubarb rhubarb.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><div style=\"text-align: right;\" data-mce-style=\"text-align: right;\">&nbsp;New paragraph. Hello there.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;Another new paragraph.<br></div><div style=\"text-align: left;\" data-mce-style=\"text-align: left;\">&nbsp;</div><ul class=\"actions vertical\"><li><a class=\"button\" href=\"#\" data-mce-href=\"#\">Learn Less﻿</a></li></ul>",
 	"spotlight": [
 		{
-			"spotlight-para": "<h2>Spotlight headline<br></h2><p>Spotlight paragraph, spotlight paragraph, spotlight paragraph.<br></p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"http://www.prankeapple.com\" data-mce-href=\"http://www.prankeapple.com\">Spotlight Button﻿</a></li></ul>"
+			"spotlight_para": "<h2>Spotlight headline<br></h2><p>Spotlight paragraph, spotlight paragraph, spotlight paragraph.<br></p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"http://www.prankeapple.com\" data-mce-href=\"http://www.prankeapple.com\">Spotlight Button﻿</a></li></ul>"
 		}
 	]
 }
