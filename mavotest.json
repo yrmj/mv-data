@@ -1,6 +1,6 @@
 {
-	"headline": "IMPACTFUL HEADLINE!",
-	"bannerimage": "https://i.imgur.com/P4lmtjK.jpg",
+	"headline": "Story",
+	"bannerimage": "images/banner.jpg",
 	"firstpara": {
 		"undefined": "An exciting intro paragraph, featuring <em>lots</em> of <strong>styling</strong> and <a title=\"can't bust the krust\" href=\"http://imgur.com/a/s4Bo7\" data-mce-href=\"http://imgur.com/a/s4Bo7\">links</a> and an image. <img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://i.imgur.com/jYoAQM3.png\" alt=\"IN KRUST WE TRUST\" data-mce-style=\"display: block; margin-left: auto; margin-right: auto;\" data-mce-src=\"http://i.imgur.com/jYoAQM3.png\" width=\"368\" height=\"375\">"
 	},
@@ -8,18 +8,6 @@
 	"spotlight": [
 		{
 			"spotlight-para": "<h2>Spotlight headline<br></h2><p>Spotlight paragraph, spotlight paragraph, spotlight paragraph.<br></p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"http://www.prankeapple.com\" data-mce-href=\"http://www.prankeapple.com\">Spotlight Button﻿</a></li></ul>"
-		},
-		{
-			"spotlight-para": "<h2>Tempus adipiscing</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p><ul class=\"actions vertical\"><li><a class=\"button\" href=\"https://www.youtube.com/watch?v=YbaTur4A1OU\" data-mce-href=\"https://www.youtube.com/watch?v=YbaTur4A1OU\">DUCKROLL﻿</a></li></ul>"
-		},
-		{
-			"spotlight-para": "<h2>I guess this is a new spotlight<br></h2><p>&nbsp;With a new paragraph and stuff.<br></p>"
-		},
-		{
-			"spotlight-para": "\n\t\t\t\t\t\t\t<h2>Pharetra etiam nulla</h2>\n\t\t\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>\n\t\t\t\t\t\t\t<ul class=\"actions vertical\">\n\t\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">Learn More</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t"
-		},
-		{
-			"spotlight-para": "<h2>Second new spotlight<br></h2><p>&nbsp;Spotlight para, etc.<br></p><p>&nbsp;<a href=\"http://www.goatse.cx\" data-mce-href=\"http://www.goatse.cx\">A LINK</a></p>"
 		}
 	]
 }
